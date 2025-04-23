@@ -1,7 +1,9 @@
-# Dati-OMI-Osservatorio-Mercato-Immobiliare-Valori
+# Dati Osservatorio Mercato Immobiliare
 Dati semestrali aggregati dell'Osservatorio Mercato Immobiliare (OMI) dell'agenzia dell'entrate.
 
 Il file .csv racchiude tutti i dati rilasciati dall'Agenzia dell'Entrate disponibili dal primo semestre 2004 al secondo semestre 2024 riguardo i valori rilevati dall'Osservatorio del Mercato Immobiliare.
+L'unica elaborazione effettuata è l'aggiunta delle colonne ["Anno","Semestre","Datetime"].
+
 N.B. Il seguento dataset non sostituisce i dati ufficiali rilasciati dall'Istituto. Tali dati sono di proprietà dell'Agenzia delle Entrate.
 
 Link istituzionale: https://www.agenziaentrate.gov.it/portale/schede/fabbricatiterreni/omi
