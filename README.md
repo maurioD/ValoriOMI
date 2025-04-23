@@ -12,7 +12,7 @@ Link istituzionale: https://www.agenziaentrate.gov.it/portale/schede/fabbricatit
 
 Condizioni contrattuali: https://www.agenziaentrate.gov.it/portale/schede/fabbricatiterreni/omi/banche-dati/quotazioni-immobiliari/condizioni-contrattuali-qi
 
-*** 1. Copyright
+1. Copyright
 
 Le informazioni rese sono di proprietà esclusiva dell’Agenzia. Non è consentito al cliente vendere, affittare, noleggiare, trasferire, cedere i contenuti della Banca Dati o assumere alcune altre obbligazioni verso terzi. 
 Le informazioni contenute nella banca dati possono essere utilizzate dal cliente, anche ai fini della loro elaborazione purché, nel caso di pubblicazione, venga citata la relativa fonte.
